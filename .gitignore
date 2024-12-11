@@ -1,0 +1,7 @@
+# Ignore Python virtual environments
+leonivenev/
+__pycache__/
+*.pyc
+
+# Ignore other environment-specific files
+pyvenv.cfg
